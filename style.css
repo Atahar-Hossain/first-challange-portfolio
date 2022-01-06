@@ -52,6 +52,12 @@ body {
   padding: 10px 20px;
   border-radius: 5px;
 }
+.explore-link:hover {
+  background-color: rgb(255, 166, 0);
+  color: black;
+  transition-duration: 0.5s;
+}
+
 .focus-details h3 {
   padding-top: 2.5em;
   font-weight: 400;
@@ -143,6 +149,12 @@ body {
   padding: 10px 30px;
   border-radius: 5px;
 }
+
+#read-the-documents:hover {
+  background-color: rgb(255, 166, 0);
+  color: black;
+  transition-duration: 0.5s;
+}
 .align-center {
   align-items: center;
 }
@@ -175,7 +187,7 @@ body {
   margin: auto;
 }
 .contact-header h1 {
-  color: #FFAD5A;
+  color: #ffad5a;
   font-size: 24px;
   padding-top: 60px;
 }
@@ -217,7 +229,7 @@ form .submit input {
   text-transform: uppercase;
   border-radius: 5px;
   font-weight: 900;
-  background: #FFAD5A;
+  background: #ffad5a;
   color: black;
 }
 .submit input:hover {
@@ -239,7 +251,7 @@ form .submit input {
 }
 .social-list li a {
   display: block;
-  background: #FFAD5A;
+  background: #ffad5a;
   font-size: 25px;
   height: 40px;
   width: 40px;
@@ -267,7 +279,7 @@ form .submit input {
 }
 .contact-col li a {
   font-size: 18px;
-  color: #FFAD5A;
+  color: #ffad5a;
   text-decoration: none;
 }
 .contact-col li a:hover {
@@ -278,7 +290,7 @@ form .submit input {
   max-width: 30%;
 }
 .address address {
-  color: #FFAD5A;
+  color: #ffad5a;
   text-align: justify;
 }
 
